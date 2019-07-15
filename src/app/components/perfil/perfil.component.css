@@ -8,3 +8,8 @@
     padding-right: 8%;
     border-radius: 10px;
 }
+
+#languageIcon {
+    margin-bottom: 5px;
+    cursor: pointer;
+}
