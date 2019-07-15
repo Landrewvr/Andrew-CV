@@ -23,11 +23,11 @@ export class PerfilComponent implements OnInit {
   getData(language) {
    let jsonString = '';
    if (language === 'ES') {
-      jsonString = '../../../assets/dataJSON/esData.json';
-      this.picRoute = '../../../assets/pictures/icons/ES.png';
+      jsonString = './assets/dataJSON/esData.json';
+      this.picRoute = './assets/pictures/icons/ES.png';
     }  else if (language === 'EN') {
-      jsonString = '../../../assets/dataJSON/enData.json';
-      this.picRoute = '../../../assets/pictures/icons/EN.png';
+      jsonString = './assets/dataJSON/enData.json';
+      this.picRoute = './assets/pictures/icons/EN.png';
     }
 
    this.httpClient.get(jsonString).subscribe((data: any) => {
