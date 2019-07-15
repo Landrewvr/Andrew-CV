@@ -1,0 +1,13 @@
+<div class="pt-5">    
+  <mat-accordion >
+    <mat-expansion-panel *ngFor="let section of contentArray" class="header letters">
+      <mat-expansion-panel-header>
+        <mat-panel-title class="letters">
+          {{section.title}}
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+      <expandible-list-content [content]="section.content"></expandible-list-content>
+    </mat-expansion-panel>
+    
+  </mat-accordion>
+</div>

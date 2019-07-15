@@ -1,0 +1,10 @@
+.pageFrame {
+    width: 60%;
+    height: 80%;
+    margin: auto;
+    background-color: white;
+    padding-top: 2%;
+    padding-left: 8%;
+    padding-right: 8%;
+    border-radius: 10px;
+}

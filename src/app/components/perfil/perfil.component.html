@@ -1,0 +1,9 @@
+<div class="pageFrame scroll-list">    
+    <button mat-button [matMenuTriggerFor]="menu" class="float-right"><img  src="../../../assets/pictures/icons/languageChange.png" alt=""></button>
+<mat-menu #menu="matMenu">
+  <button mat-menu-item (click)="getData('ES')"><img src="../../../assets/pictures/icons/ES.png" alt="">ES</button>
+  <button mat-menu-item (click)="getData('EN')"><img src="../../../assets/pictures/icons/EN.png" alt="">EN</button>
+</mat-menu>
+  <app-bio *ngIf="infoData" [infoData]="infoData"></app-bio>
+  <app-related-info *ngIf="infoData" [infoData]="infoData"></app-related-info>
+</div>

@@ -1,0 +1,103 @@
+
+{
+    "data": [
+        {
+            "title": "Objetive",
+            "content": "Make use of my abilities of software development with all the ethical principles learned in college to fulfill my responsibilities on time and provide quality."
+        },
+        {
+            "title": "Academic education",
+            "content": [
+                { 
+                    "name": "Colegio Cardenal Sancha/ Cardenal sancha School  (Dominican Republic)",
+                    "items": ["1998-2013", "Primary Education","Baccalaureate"]
+                },
+                {
+                    "name": "Universidad Apec/ Unapec College  (Dominican Republic)",
+                    "items": ["2013-2018", "Software Engineer"]
+                }
+            ]
+        },
+        {
+            "title": "Personal References (Firstname and Lastname - Cellphone Number)",
+            "content": [
+                "Ariel Feliz: (829)883-7123.(Technical Leader)",
+                "Juan Ledesma:(829) 812-1014. (Technical Leader)",
+                "Liselbi Rodriguez: (849)652-3576.(Project Leader)"
+            ]
+        },
+        {
+            "title": "Skills",
+            "content": [
+                "JavaScript",
+                "MongoDb",
+                "ExpressJS",
+                "NodeJs",
+                "Angularjs",
+                "Angular 7",
+                "Oracle sql",
+                "HTML/Css",
+                "Web applications development (FrontEnd And BackEnd)",
+                "Spanish (Read/Write/Speak)",
+                "English (Read/ Write/ Speak)",
+               "Knowledge and experience with agile methodologies such as SCRUM"
+   
+            ]
+        },
+        {
+            "title": "Personal Experience",
+            "content": [
+               "Three years working on the area",
+               "Web development with MEAN STACK Technologies",
+               "ClientSide and ServerSide Knowledge",
+               "Creation and maintenance",
+               "Creation of data load and data modification scripts on MongoDb",
+               "Object oriented analysis/design",
+               "Angular 6  FrontEnd Developer",
+               "AngularJs FrontEnd Developer",
+               "Creation and maintenance of reusable modules"
+            ]
+        },
+        {
+            "title": "Working Experience",
+            "content": [
+                "Simetrica Consulting SRL(2016 - present day)."
+            ]
+        },
+         {
+            "title": "Project Participation",
+            "content": [
+                { 
+                    "name": "MediaWatch (Web Application)",
+                    "items": [
+                        "Development and maintenence of CRUD by given requirements",
+                        "Development of directives for document handling (PDF, Excel, etc)",
+                        "Development of report makers"
+                    ]
+                },
+                {
+                    "name": "MedicalCore (Web Application)",
+                    "items": [
+                        "Development of services for import and export of documents (PDF, Excel)",
+                        "Development of a module for storage and administration of logs in the application.",
+                        "Development of services to manage sessions in real time with Sockets technology",
+                        "Development and maintenance of requirements.",
+                        "Technical support and issues correction"
+                    ]
+                },
+                {
+                    "name": "SaludCore Web (Aplicación Web)",
+                    "items": [
+                        "Maintenance and development of a reusable component that is responsible for generating tables, buttons, and forms dynamically, configurable according to what is needed.",
+                        "Development of a reusable component that handles the dates throughout the application and performs all the validations and formats, and also performs conversions and comparisons of the date fields in the desired objects.",
+                        "Development of an emerging component that is responsible for carrying out personalized searches according to the data models of the application.",
+                        "Development of CRUD according to interfaces and services.",
+                        "Development and consumption of web services.",
+                        "Interviewer and evaluator of new resources at a technical level",
+                        "Resolution of issues and bugs"
+                    ]
+                }
+            ]
+        }
+    ]    
+ }

@@ -1,0 +1,17 @@
+
+<ul *ngIf="isObjectContent">
+  <li *ngFor="let con of content">
+    {{con.name}}
+    <ul>
+      <li *ngFor="let item of con.items">
+        {{item}}
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul *ngIf="!isObjectContent">
+  <li *ngFor="let con of content">
+    {{con}}
+  </li>
+</ul>

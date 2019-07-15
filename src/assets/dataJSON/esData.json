@@ -1,0 +1,102 @@
+
+{
+    "data": [
+        {
+            "title": "Objetivo",
+            "content": "Utilizar mis habilidades en desarrollo de Software y poder explotarlas al máximo, utilizando los principios éticos y profesionales aprendidos en la universidad para poder cumplir con mis responsabilidades a tiempo y brindar un trabajo de calidad."
+        },
+        {
+            "title": "Formación Académica",
+            "content": [
+                { 
+                    "name": "Colegio Cardenal Sancha",
+                    "items": ["1998-2013", "Primaria","Bachiller"]
+                },
+                {
+                    "name": "Universidad Apec",
+                    "items": ["2013-2018", "Ingeniero de Software"]
+                }
+            ]
+        },
+        {
+            "title": "Referencias Personales",
+            "content": [
+                "Ariel Feliz: (829)883-7123.(Lider Tecnico)",
+                "Juan Ledesma:(829) 812-1014. (Lider Tecnico)",
+                "Liselbi Rodriguez: (849)652-3576.(Lider)"
+            ]
+        },
+        {
+            "title": "Cualificaciones",
+            "content": [
+                "JavaScript",
+                "MongoDb",
+                "ExpressJS",
+                "NodeJs",
+                "Angularjs",
+                "Angular 7",
+                "Oracle sql",
+                "HTML/Css",
+                "Desarrollo de aplicaciones web (FrontEnd y BackEnd)",
+                "Inglés como segundo idioma",
+                "Familiarización con la metodología ágil SCRUM"
+            ]
+        },
+        {
+            "title": "Experiencia Personal",
+            "content": [
+                "Tres años meses de experiencia en el área.",
+                "Desarrollador de aplicaciones web con las tecnologías de Mean Stack.",
+                "Trabajo en client side y server side.",
+                "Construcción de directivas y servicios web.",
+                "Creación de scripts para modificación y carga de datos en MongoDb.",
+                "Análisis y diseño orientado a objetos.",
+                "Desarrollo Front-End en Angular 7",
+                "Desarrollo de módulos reutilizables",
+                "Experiencia con tecnologías de control de versiones",
+                "Tutoria de programación front-end (Angular 7)"
+            ]
+        },
+        {
+            "title": "Experiencia Laboral",
+            "content": [
+                "Simetrica Consulting SRL(2016 - presente)."
+            ]
+        },
+        {
+            "title": "Participación en proyectos",
+            "content": [
+                { 
+                    "name": "MediaWatch (Aplicaón Web)",
+                    "items": [
+                        "Desarrollo y mantenimiento de CRUD según requisitos",
+                        "Desarrollo de funciones para manejo de documentos en formato (PDF, Excel, etc)"
+                    ]
+                },
+                {
+                    "name": "MedicalCore (Aplicaón Web)",
+                    "items": [
+                        "Desarrollo de servicios para manejo de importacion y exportacion de PDF y archivos excel",
+                        "Desarrollo de módulo para almacenamiento y administración de bitácoras en la aplicación.",
+                        "Desarrollo de servicios para administración de sesiones en tiempo real con la tecnología de Sockets",
+                        "Desarrollo y mantenimiento de requisitos.",
+                        "Soporte técnico y corrección de issues"
+                    ]
+                },
+                {
+                    "name": "SaludCore Web (Aplicación Web)",
+                    "items": [
+                        "Desarrollo de mantenimiento de un componente reutilizable que se encarga de generar tablas, botones, y formularios de manera dinámica, configurable según lo que se necesite.",
+                        "Desarrollo de un componente reutilizable que se encarga del manejo de las fechas en toda la aplicación que realiza todas las validaciones y da formato. Además realiza conversiones y comparaciones de los campos de fecha en los objetos deseados.",
+                        "Desarrollo de un componente emergente que se encarga de realizar búsquedas personalizadas según los modelos de datos de la aplicación.",
+                        "Desarrollo bajo requisitos de distintos CRUD según interfaces y servicios.",
+                        "Desarrollo y consumo de servicios web.",
+                        "Entrevistador y evaluador de nuevos recursos a nivel tecnico",
+                        "Resolucion de issues y bugs"
+                    ]
+                }
+            ]
+        }
+
+    ]   
+}
