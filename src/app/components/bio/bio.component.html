@@ -1,22 +1,26 @@
-<div class="row">
-  <div id="titleDiv" class="col-md-12 header">
-    <h4 class="letters">Curriculum Vitae</h4>
-  </div>
-  <div id="date" class="col-md-4 header">
-     <span class="letters">{{nowDate | amDateFormat: 'DD-MM-YYYY hh:mm:ss a'}}</span>
-  </div>
-  <div class="col-md-8 header">
-      <h5 class="letters">Luis Andrés Veras Ramos</h5>
-  </div>
-  <div class="col-md-4">
+<div class="row">  
+  <div class="col-md-4" >
     <!-- <div  > -->
-      <img class="profileImg" src="assets\pictures\cvpic.PNG">
+      <div class="col-md-12 relativePos">
+        <img id="profileImg" src="assets\pictures\cvpic.jpg">
+      </div>
+      <div id="name" class="col-md-12 description absolutePos">
+        <h5 class="letters name" >Luis Andrés Veras Ramos</h5>    
+          <p>Front-End Developer</p>    
+      </div>
     <!-- </div> -->
   </div>
   <div class="col-md-8 mt-5">
-    <h4>{{this.objetiveData.title}}</h4>
-    <p>
-        {{this.objetiveData.content}}
-    </p>
+    <div class="row ml-3">
+      <div class="col-md-12">
+          <h4>{{this.objetiveData.title}}</h4>
+          <p>
+              {{this.objetiveData.content}}
+          </p>
+      </div>
+      <div class="col-md-12">
+        <app-related-info *ngIf="infoData" [infoData]="infoData"></app-related-info>
+      </div>
+    </div>    
   </div>
 </div>

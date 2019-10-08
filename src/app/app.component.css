@@ -1,9 +1,9 @@
 .appLayer {
-    background-image: url("../assets/pictures/devBackground.png");
-    height: 969px;
+    background-color: #CCBCBC;
+    height: 100%;
     
 }
 
-.spacing {
+/* .spacing {
     height: 10%;
-}
+} */
