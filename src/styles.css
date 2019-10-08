@@ -2,15 +2,15 @@
 @import '~@angular/material/prebuilt-themes/indigo-pink.css';
 
 * {
-    font-family: monospace;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .header {
-    background-color:#1F3E77;
+    background-color:#18c3f8;
 }
 
 .letters {
-    color: #1BD9FA;
+    color: #000000;
 }
 
 .scroll-list {
@@ -34,11 +34,11 @@
   }
 
   .scroll-list::-webkit-scrollbar-thumb {
-    background: rgb(63, 109, 170);
+    background: #18c3f8;
   }
   
   /* Handle on hover */
   
   .scroll-list::-webkit-scrollbar-thumb:hover {
-    background: rgb(63, 109, 170);
+    background: #18c3f8;
   }
